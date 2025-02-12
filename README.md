@@ -1,7 +1,7 @@
 # Say-Hello
 
 A cute little web application that says hello in different languages! Search for a specific language and hit the enter key, or press the Random button for a random language.<br>
-DEMO: <a href="https://yungasi.github.io/say-hello/">yungasi.github.io/say-hello/</a>
+Demo <a href='https://asiarouse00.github.io/say-hello/'>here</a>!
 
 # Credits
 
